@@ -12,7 +12,7 @@ To run:
 ```
 Add showdigits to $PATH
 ```
-Make executable
+Make executable:
 ```
 chmod u+x runnerBash.sh
 ```
